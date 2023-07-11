@@ -10,7 +10,7 @@ export default function Head()
         <header className="head">
         <div className="headcon">
             <img src={logo} className="logo"/>
-            <p className="htxt">React Project </p>
+            <p className="htxt">A React Project</p>
         </div>
         </header>
     )
